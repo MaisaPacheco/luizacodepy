@@ -1,0 +1,2 @@
+# luizacodepy
+Estudando Python
